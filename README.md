@@ -54,7 +54,7 @@ Includes:
 - **KPIs:** Total Titles, Movies, TV Shows
 - **Slicers:** Type, Rating, Year, Country
 - **Charts:** Growth over time, Popular ratings, Country contributions
-
+![Power BI Dashboard](Power BI Dashboard.png)
 ## 🧠 **Part 5 — Key Insights**
 - Growth peak in 2020 → stabilization afterward
 - Movies dominate; TV Shows increasing gradually
