@@ -75,12 +75,15 @@ Post-2020 | Selective, quality-focused |
 - Competitor comparison
 
 ## 📁 **Project Structure**
+
+```
 📦 Netflix-Analysis/
 ├── README.md
 ├── notebook.ipynb
 ├── data_cleaned/
 ├── visuals/
 └── powerbi/
+```
 
 ## 👤 **Author**
 **Abdellah Boudlal**  
